@@ -1,0 +1,114 @@
+﻿[
+  {
+    "Name": "毎日のメモファイル生成機能を追加",
+    "Description": "",
+    "Status": {
+      "StatusType": 3
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T12:12:34.2994344+09:00",
+    "UpdateAt": "2023-01-09T12:12:34.2994345+09:00",
+    "StartAt": "2023-01-09T12:12:34.2994332+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "日報作成機能を追加",
+    "Description": "",
+    "Status": {
+      "StatusType": 2
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T12:13:15.4874589+09:00",
+    "UpdateAt": "2023-01-09T12:13:15.4874591+09:00",
+    "StartAt": "2023-01-09T12:13:15.4874577+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "セーブデータをDomainに移動する",
+    "Description": "",
+    "Status": {
+      "StatusType": 0
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T15:51:49.230265+09:00",
+    "UpdateAt": "2023-01-09T15:51:49.2302746+09:00",
+    "StartAt": "2023-01-09T15:51:49.2302468+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "TaskAddWindowを二重で開かないように改修する",
+    "Description": "",
+    "Status": {
+      "StatusType": 2
+    },
+    "Comments": [],
+    "MyPriority": 1,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T15:52:06.2501587+09:00",
+    "UpdateAt": "2023-01-09T15:52:06.2501588+09:00",
+    "StartAt": "2023-01-09T15:52:06.2501576+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "タスクのソートを検討する",
+    "Description": "",
+    "Status": {
+      "StatusType": 0
+    },
+    "Comments": [],
+    "MyPriority": 1,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T15:52:49.1155972+09:00",
+    "UpdateAt": "2023-01-09T15:52:49.1155972+09:00",
+    "StartAt": "2023-01-09T15:52:49.1155967+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "タスクの複数選択対応",
+    "Description": "",
+    "Status": {
+      "StatusType": 0
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T19:39:46.6086047+09:00",
+    "UpdateAt": "2023-01-09T19:39:46.6086047+09:00",
+    "StartAt": "2023-01-09T19:39:46.6086041+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "スケジュールの時間変更コマンドを独立させる",
+    "Description": "",
+    "Status": {
+      "StatusType": 0
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T19:40:04.6658965+09:00",
+    "UpdateAt": "2023-01-09T19:40:04.6658965+09:00",
+    "StartAt": "2023-01-09T19:40:04.6658955+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "定期的なスケジュールを自動セットする機能追加",
+    "Description": "",
+    "Status": {
+      "StatusType": 2
+    },
+    "Comments": [],
+    "MyPriority": 2,
+    "OtherPriority": 2,
+    "CreateAt": "2023-01-09T20:14:12.008235+09:00",
+    "UpdateAt": "2023-01-09T20:14:12.0083007+09:00",
+    "StartAt": "2023-01-09T20:14:12.0081198+09:00",
+    "CompleteAt": "0001-01-01T00:00:00"
+  }
+]
